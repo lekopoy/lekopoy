@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an RPG Game, a website remake, and a portfolio website
 - 🌱 I’m currently learning **C, C++, Java**
 
 <h3 align="left">Languages and Tools:</h3>
