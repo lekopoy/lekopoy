@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently a highschool student taking computer sciences courses, which teaches **python**. Going into Grade 11 I've already taken the Grade 11 course and I'm taking the Grade 12 course next year
+- 🌱 I'm currently a high school student taking computer sciences courses, which teach **python**. Going into Grade 11 I've already taken the Grade 11 course and I'm taking the Grade 12 course next year
 - 🔭 I’m currently working on an RPG Game, a remake of my schools website, and a portfolio website
 - 🔧 I’m currently learning **C, C++, Java, SQL** outside of school
 
